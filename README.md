@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi 👋, I'm Shivam Tiwari, a Computer Science graduate passionate about Software Development, Artificial Intelligence, and building technology that solves real-world problems. I enjoy transforming ideas into practical applications through clean code, continuous learning, and innovation.<br><br>My technical expertise includes C++, Python, SQL, Machine Learning, and Web Development, with hands-on experience building AI-powered recommendation systems, phishing detection tools, sentiment analysis applications, and full-stack projects. I am also familiar with Git, GitHub, Streamlit, Microsoft Azure, and Microsoft Office tools.<br><br>Beyond coding, I have over four years of experience leading technical communities, organizing hackathons, workshops, and developer events. These experiences have strengthened my leadership, communication, project management, and collaboration skills while allowing me to work with students, mentors, industry professionals, and cross-functional teams.<br><br>I enjoy learning new technologies, contributing to open-source projects, solving challenging problems, and connecting with developers worldwide. My goal is to build impactful software, grow as a Software Engineer, and continuously improve through collaboration and real-world experiences.
+Hi 👋, I'm Shivam Tiwari, a Computer Science graduate passionate about Software Development, Artificial Intelligence, and building technology that solves real-world problems. <br>
+- I enjoy transforming ideas into practical applications through clean code, continuous learning, and innovation.<br>
+- My technical expertise includes C++, Python, SQL, Machine Learning, and Web Development, with hands-on experience building AI-powered recommendation systems, phishing detection tools, sentiment analysis applications, and full-stack projects. <br>
+- I am also familiar with Git, GitHub, Streamlit, Microsoft Azure, and Microsoft Office tools.<br>
+- Beyond coding, I have over four years of experience leading technical communities, organizing hackathons, workshops, and developer events. These experiences have strengthened my leadership, communication, project management, and collaboration skills while allowing me to work with students, mentors, industry professionals, and cross-functional teams.<br>
+- I enjoy learning new technologies, contributing to open-source projects, solving challenging problems, and connecting with developers worldwide.<br>
+- My goal is to build impactful software, grow as a Software Engineer, and continuously improve through collaboration and real-world experiences.<br>
 
 
 ## 🌐 Socials:
@@ -10,63 +16,72 @@ Hi 👋, I'm Shivam Tiwari, a Computer Science graduate passionate about Softwar
 
 ## 🚀 Featured Projects
 
-📚 AI Course Recommendation System
-• ML-based recommendation engine using Udemy dataset
+- 📚 **AI Course Recommendation System**
+  - ML-based recommendation engine using the Udemy dataset.
+  - Personalized course recommendations based on user preferences and ratings.
 
-🎬 Movie Recommendation System
-• Collaborative filtering using cosine similarity
+- 🎬 **Movie Recommendation System**
+  - Collaborative filtering using cosine similarity.
+  - Personalized movie recommendations based on user behavior.
 
-🛡️ PhishShield
-• Chrome Extension for phishing URL detection using Machine Learning
+- 🛡️ **PhishShield**
+  - Chrome Extension for phishing URL detection using Machine Learning.
+  - Extracts URL features and predicts phishing probability in real time.
 
-📖 Startup Books Recommendation System
-• Book recommendation engine using similarity algorithms
+- 📖 **Startup Books Recommendation System**
+  - Book recommendation engine using similarity algorithms.
+  - Suggests books based on user interests and preferences.
 
-😊 Sentiment Analysis System
-• NLP project using TextBlob for sentiment classification
+- 😊 **Sentiment Analysis System**
+  - NLP project using TextBlob for sentiment classification.
+  - Classifies text into Positive, Neutral, and Negative sentiments.
+
+---
 
 ## 🏆 Certifications
 
-✔ Microsoft Azure Fundamentals (AZ-900)
-✔ Microsoft Azure AI Fundamentals (AI-900)
-✔ SAP ABAP Cloud Backend Developer
-✔ Git & GitHub
-✔ SQL
-✔ Machine Learning
-✔ Python Programming
+- ✔ Microsoft Azure Fundamentals (AZ-900)
+- ✔ Microsoft Azure AI Fundamentals (AI-900)
+- ✔ SAP ABAP Cloud Backend Developer
+- ✔ Git & GitHub
+- ✔ SQL
+- ✔ Machine Learning
+- ✔ Python Programming
 
-### Other Skills
-Data Structures & Algorithms
-OOP
-Problem Solving
-Microsoft Excel
-Microsoft Office
-CRM Platforms
-Technical Documentation
-Customer Support
+---
+
+## 💻 Other Skills
+
+- **Programming:** C++, Python, SQL, JavaScript
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Problem Solving
+- **Tools & Platforms:** Git, GitHub, Microsoft Excel, Microsoft Office, CRM Platforms
+- **Technical Skills:** Machine Learning, Streamlit, Technical Documentation, Customer Support
+
+---
 
 ## 🌍 Community & Leadership
 
-🚀 Coordinator — Developers Club
+### 🚀 Coordinator — Developers Club
 
-• Organized Hackathons
-• Conducted Technical Workshops
-• Led Coding Bootcamps
-• Mentored Juniors
-• Community Building
-• Event Management
-• Technical Speaker
+- Organized multiple Hackathons and Coding Competitions.
+- Conducted Technical Workshops and Hands-on Sessions.
+- Led Coding Bootcamps for students.
+- Mentored junior developers in programming and career guidance.
+- Built and managed a thriving developer community.
+- Coordinated technical events with industry professionals and faculty.
+- Delivered technical talks and speaker sessions on emerging technologies.
 
+---
 
 ## 🎯 2026 Goals
 
-✔ Master DSA in C++
-✔ Become an Open Source Contributor
-✔ Build Production-Ready AI Applications
-✔ Learn System Design
-✔ Crack an SDE Role
-✔ Contribute to Developer Communities
-
+- ✔ Master Data Structures & Algorithms in C++
+- ✔ Become an Active Open Source Contributor
+- ✔ Build Production-Ready AI & Full-Stack Applications
+- ✔ Learn System Design and Software Architecture
+- ✔ Secure a Software Development Engineer (SDE) Role
+- ✔ Contribute to Global Developer Communities
+- ✔ Strengthen Backend Development & Cloud Computing Skills
 
 
 
