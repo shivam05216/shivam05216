@@ -108,7 +108,7 @@ Hi 👋, I'm Shivam Tiwari, a Computer Science graduate passionate about Softwar
 <div align="center">
   
   ![](https://streak-stats.demolab.com/?user=shivam05216&theme=dark&hide_border=false)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivam05216&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
